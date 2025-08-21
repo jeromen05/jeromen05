@@ -4,7 +4,7 @@
 
 - <b>Cisco Packet Tracer Project</b>
   - [NETX 439: Advance Cisco Routing Project](https://github.com/jeromen05/Cisco-Project1)
-- <b>NETX 440: Active Directory Project/b>
+- <b>NETX 440: Active Directory Project</b>
   - [Active Directory](https://github.com/jeromen05/Active-Directory-LAB)
 - <b>Google Cybersecurity Project</b>
   - [Google Cybersecurity](https://github.com/jeromen05/Google-Cybersecurity)
