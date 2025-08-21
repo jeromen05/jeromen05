@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - <b>Cisco Packet Tracer Project</b>
-  - [NETX 439: Advance Cisco Routing Project](https://github.com/jeromen05/Cisco-Project1)
+  - [NETX 439: Advance Cisco Routing Project](https://github.com/jeromen05/Cisco-Packet-Tracer-Project)
 - <b>NETX 440: Active Directory Project</b>
   - [Active Directory](https://github.com/jeromen05/Active-Directory-LAB)
 - <b>Google Cybersecurity Project</b>
