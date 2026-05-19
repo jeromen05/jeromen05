@@ -5,7 +5,7 @@
 - <b>Cisco Packet Tracer Project</b>
   - [NETX 439 and NETX 432 Project](https://github.com/jeromen05/Cisco-Packet-Tracer-Project)
 - <b>NETX 440: Active Directory Project</b>
-  - [Active Directory](https://github.com/jeromen05/Active-Directory-LAB)
+  - [Active Directory](https://github.com/jeromen05/Active-Directory-VM-Lab/)
 - <b>Google Cybersecurity Project</b>
   - [Google Cybersecurity](https://github.com/jeromen05/Google-Cybersecurity)
 
